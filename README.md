@@ -7,3 +7,5 @@
 ### Connect with me:
 
 [<img align="left" alt="stefanninkovic | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />][Instagram]
+
+[Instagram]: https://instagram.com/yee.stefan/
