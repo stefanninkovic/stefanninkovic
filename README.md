@@ -30,7 +30,9 @@
 
 ---
 
-<img align="left" alt="stefanninkovic's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=stefanninkovic&show_icons=true&hide_border=true&count_private=true&hide=stars&title_color=#000000" />
+<img align="left" alt="stefanninkovic's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=stefanninkovic&show_icons=true&hide_border=true&count_private=true&hide=stars&title_color=#000000&include_all_commits=true" />
+
+<img align="left" alt="stefanninkovic's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" />
 
 [energyeet]: https://energyeet.ch/
 [instagram]: https://instagram.com/yee.stefan/
