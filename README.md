@@ -1,8 +1,8 @@
 ### Hi there, I'm Stefan and live in Switzerland 👋
 
-- 👨‍💻 My side projects is [Energyeet][energyeet]. Go check it out. 😊
-- 🔭 I’m currently working on polishing my web-development skills
-- 🌱 I’m currently learning C#, WPF, ASP.NET, Angular and some React
+- 👨‍💻 My side project is [Energyeet][energyeet]. Go check it out. 😊
+- 🔭 I’m currently working on polishing my web-development skills.
+- 🌱 I’m currently learning C#, WPF, ASP.NET, Angular and some React.
 - ⚡ Fun fact: Drinking Energy Drinks isn't just a passion... it's a lifestyle.
 
 ### Connect with me:
