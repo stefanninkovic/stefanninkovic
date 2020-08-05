@@ -20,6 +20,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Visual Studio" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-569577.png" />][visualstudio]
 
+<img align="left" alt="stefanninkovic's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=stefanninkovic&show_icons=true&hide_border=true" />
+
 [energyeet]: https://energyeet.ch/
 [instagram]: https://instagram.com/yee.stefan/
 [linkedIn]: https://www.linkedin.com/in/stefan-ninkovic/
