@@ -30,7 +30,7 @@
 
 ---
 
-<img align="left" alt="stefanninkovic's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=stefanninkovic&show_icons=true&hide_border=true&count_private=true&hide=stars" />
+<img align="left" alt="stefanninkovic's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=stefanninkovic&show_icons=true&hide_border=true&count_private=true&hide=stars&title_color=#000000" />
 
 [energyeet]: https://energyeet.ch/
 [instagram]: https://instagram.com/yee.stefan/
