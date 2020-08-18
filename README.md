@@ -13,6 +13,7 @@
 
 [<img align="left" alt="stefanninkovic | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />][instagram]
 [<img align="left" alt="stefanninkovic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />][linkedIn]
+[<img align="left" alt="stefanninkovic | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" />][twitter]
 
 <br>
 
@@ -37,6 +38,7 @@
 [energyeet]: https://energyeet.ch/
 [instagram]: https://instagram.com/yee.stefan/
 [linkedIn]: https://www.linkedin.com/in/stefan-ninkovic/
+[twitter]: https://twitter.com/yee_stefan/
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [visualstudiocode]: https://visualstudio.microsoft.com/de/
 [angular]: https://angular.io/
