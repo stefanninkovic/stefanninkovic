@@ -2,7 +2,7 @@
 
 - 👨‍💻 My side project is [Energyeet][energyeet]. Go check it out. 😊
 - 🔭 I’m currently working on polishing my web-development skills.
-- 🌱 I’m currently learning C#, WPF, ASP.NET, Angular and some React.
+- 🌱 At the moment, I'm learning C#, WPF, ASP.NET, Angular, GoLang, and some React.
 - ⚡ Fun fact: Drinking Energy Drinks isn't just a passion... it's a lifestyle.
 
 <br>
