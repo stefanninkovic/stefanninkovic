@@ -31,9 +31,9 @@
 
 ---
 
-<img align="left" alt="stefanninkovic's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DaniloMurer&show_icons=true&hide_border=true&count_private=true&hide=stars&title_color=#000000&include_all_commits=true" />
+<img align="left" alt="stefanninkovic's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=stefanninkovic&show_icons=true&hide_border=true&count_private=true&hide=stars&title_color=#000000&include_all_commits=true" />
 
-<img align="left" alt="stefanninkovic's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloMurer&hide_border=true" />
+<img align="left" alt="stefanninkovic's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanninkovic&hide_border=true" />
 
 [csharptoplant]: https://github.com/stefanninkovic/csharptoplant/
 [instagram]: https://instagram.com/yee.stefan/
