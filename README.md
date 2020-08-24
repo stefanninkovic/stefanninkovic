@@ -1,6 +1,6 @@
 ### Hi there, I'm Stefan and live in Switzerland 👋
 
-- 👨‍💻 My side project is [csharptoplant][CSharpToPlant]. Go check it out. 😊
+- 👨‍💻 My side project is [CSharpToPlant][csharptoplant]. Go check it out. 😊
 - 🔭 I’m currently working on polishing my web-development skills.
 - 🌱 At the moment, I'm learning C#, WPF, ASP.NET, Angular, GoLang, and some React.
 - ⚡ Fun fact: Drinking Energy Drinks isn't just a passion... it's a lifestyle.
