@@ -1,6 +1,6 @@
 ### Hi there, I'm Stefan and live in Switzerland 👋
 
-- 👨‍💻 My side project is [Energyeet][energyeet]. Go check it out. 😊
+- 👨‍💻 My side project is [csharptoplant][CSharpToPlant]. Go check it out. 😊
 - 🔭 I’m currently working on polishing my web-development skills.
 - 🌱 At the moment, I'm learning C#, WPF, ASP.NET, Angular, GoLang, and some React.
 - ⚡ Fun fact: Drinking Energy Drinks isn't just a passion... it's a lifestyle.
@@ -35,7 +35,7 @@
 
 <img align="left" alt="stefanninkovic's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanninkovic&hide_border=true" />
 
-[energyeet]: https://energyeet.ch/
+[csharptoplant]: https://github.com/stefanninkovic/csharptoplant/
 [instagram]: https://instagram.com/yee.stefan/
 [linkedIn]: https://www.linkedin.com/in/stefan-ninkovic/
 [twitter]: https://twitter.com/yee_stefan/
