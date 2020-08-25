@@ -26,10 +26,12 @@
 [<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][angular]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Visual Studio" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-569577.png" />][visualstudio]
-[<img align="left" alt="Visual Studio" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][golang]
+[<img align="left" alt="Go" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][golang]
+[<img align="left" alt="Java" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
+[<img align="left" alt="C" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][c]
+[<img align="left" alt="MySQL" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 
 <br>
-
 ---
 
 <img align="left" alt="stefanninkovic's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=stefanninkovic&show_icons=true&hide_border=true&count_private=true&hide=stars&title_color=#000000&include_all_commits=true" />
@@ -46,3 +48,6 @@
 [github]: https://github.com/
 [visualstudio]: https://visualstudio.microsoft.com/de/
 [golang]: https://golang.org/
+[java]: https://www.java.com/
+[c]:https://en.wikipedia.org/wiki/C_(programming_language)
+[mysql]:https://www.mysql.com/
