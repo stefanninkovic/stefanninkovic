@@ -3,7 +3,6 @@
 - 👨‍💻 My side project is [CSharpToPlant][csharptoplant]. Go check it out. 😊
 - 🔭 I’m currently working on polishing my web-development skills.
 - 🌱 At the moment, I'm learning C#, WPF, ASP.NET, Angular, GoLang, and some React.
-- ⚡ Fun fact: Drinking Energy Drinks isn't just a passion... it's a lifestyle.
 
 <br>
 
